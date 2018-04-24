@@ -1,5 +1,6 @@
 # ProxySQL 1.4.x Dockerfiles for Docker Hub 
 - (Debian Stretch based).
+- (CentOS based).
 
 ProxySQL is a high performance, high availability, protocol aware proxy for MySQL and forks (like Percona Server and MariaDB).
 All the while getting the unlimited freedom that comes with a GPL license.
